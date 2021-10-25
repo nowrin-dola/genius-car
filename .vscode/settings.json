@@ -1,3 +1,7 @@
 {
+"git.enabled": "false",
+
     "editor.wordWrap": "on"
+
+    
 }
